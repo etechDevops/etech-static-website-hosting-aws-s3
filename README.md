@@ -3,6 +3,7 @@
 This project sets up a static website hosting on AWS using Terraform. The architecture leverages AWS Route 53, CloudFront, S3, Certificate Manager, and a CloudFront Function to provide a highly available, scalable, and secure solution.
 
 ## Architecture Diagram
+![Screenshot 2024-01-14 at 5 46 12 PM](https://github.com/etechDevops/etech-static-website-hosting-aws-s3/assets/67124388/9220ff48-759b-4172-bc85-1ea0d5647d16)
 
 
 - **Client**: End user accessing the website.
